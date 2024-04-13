@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585692158144",
+    "project_id": "ebroker-b9384",
+    "storage_bucket": "ebroker-b9384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585692158144:android:35f913d1a21812f58e3525",
+        "android_client_info": {
+          "package_name": "com.ebroker.wrteam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEUYeMdCnxnDiyMmk2CuCMyJTNZfNr7J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
